@@ -1,11 +1,11 @@
 ### Hey! 👋
 
-Software Engineer at [Forio], in San Francisco, California! Former pre-med student, chemist, & [App Academy] graduate! I enjoy learning new things! The world is so vast!
+Software Engineer at [Forio], in San Francisco, California! Former pre-med student, chemist, & [App Academy] graduate! I enjoy learning new things!
 
 **Fun facts ⚡**
 - I'm hobbyist [photographer].
 - I love to be active. Whether playing sports (basketball & volleyball) or working out at the gym!
-- I love to travel. If you're reading this right now I'm probably wfh! (Work from Hawaii).
+- I love to travel. My favorite place I've ever been to is Japan!
 
 Feel free to check out my [portfolio] or connect via [email] and [LinkedIn]!
 <!--
