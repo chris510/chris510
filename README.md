@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 [Forio]: https://forio.com/
 [App Academy]:https://www.appacademy.io/
 [photographer]: https://www.instagram.com/kris.trin
-[portfolio]: christrinh.com
+[portfolio]: chris-trinh.com
 [email]: mailto:christrinh5@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/trinh-christopher/
