@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-Software Engineer at [Forio], in San Francisco, California! Former pre-med student, chemist, & [App Academy] graduate! I enjoy learning new things!
+Software Engineer at [Coinbase], in San Francisco, California! Former pre-med student, chemist, & [App Academy] graduate! I enjoy learning new things!
 
 **Fun facts ⚡**
 - I'm hobbyist [photographer].
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris510&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[Forio]: https://forio.com/
+[Forio]: https://www.coinbase.com/
 [App Academy]:https://www.appacademy.io/
 [photographer]: https://www.instagram.com/kris.trin
 [portfolio]: https://chris-trinh.com/
